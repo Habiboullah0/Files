@@ -1013,7 +1013,7 @@
   },
   {
     "path": "Bac_sn_Bac_C_MA_Sujet_Bac_C_MA_2025_sn.pdf",
-    "size": 761425
+    "size": 151854
   },
   {
     "path": "Bac_sn_Bac_C_PC_Solution_Bac_C_PC_2013_sn.pdf",
@@ -1392,10 +1392,6 @@
     "size": 1488839
   },
   {
-    "path": "Bac_sn_Bac_D_MA_Solution_BAC_D_MA_2023_sn.pdf",
-    "size": 414868
-  },
-  {
     "path": "Bac_sn_Bac_D_MA_Solution_BAC_D_MA_2024_sn.pdf",
     "size": 906335
   },
@@ -1434,6 +1430,10 @@
   {
     "path": "Bac_sn_Bac_D_MA_Solution_Bac_D_MA_2020_sn.pdf",
     "size": 1097541
+  },
+  {
+    "path": "Bac_sn_Bac_D_MA_Solution_Bac_D_MA_2023_sn.pdf",
+    "size": 926253
   },
   {
     "path": "Bac_sn_Bac_D_MA_Sujet_Bac_D_MA_2010_sn.pdf",
@@ -1497,7 +1497,7 @@
   },
   {
     "path": "Bac_sn_Bac_D_MA_Sujet_Bac_D_MA_2025_sn.pdf",
-    "size": 774570
+    "size": 676156
   },
   {
     "path": "Bac_sn_Bac_D_PC_Solution_Bac_D_PC_2005_sn.pdf",
