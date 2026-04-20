@@ -1,5 +1,6 @@
 {
   "imageUrl": "https://sujets.vercel.app/icon/favicon.png",
   "redirectUrl": "https://t.me/sujets_mr",
-  "isActive": "true"
+  "isActive": "true",
+  "timesPerDay": 1
 }
